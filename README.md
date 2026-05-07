@@ -20,8 +20,8 @@ It simplifies the process of maintaining library records digitally.
 ---
 
 ## Technologies Used
-- Java / Python / MERN Stack (replace with your actual tech stack)
-- SQL / MongoDB
+- Java 
+- MongoDB
 - HTML, CSS, JavaScript
 
 
